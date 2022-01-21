@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sensor"
+        android:icon="@drawable/ic_chip"
+        android:title="sensor_SAW"
+        android:onClick="onClickconectar"
+        app:showAsAction="ifRoom|collapseActionView" />
+    <item
+        android:id="@+id/rangos"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="rangos_glucosa"
+        app:showAsAction="ifRoom|collapseActionView"/>
+    <item
+        android:id="@+id/info"
+        android:title="Info. de la app" />
+    <item
+        android:id="@+id/exit"
+        android:title="Salir" />
+
+</menu>

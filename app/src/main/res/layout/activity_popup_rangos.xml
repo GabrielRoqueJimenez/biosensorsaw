@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#70A3DA"
+    tools:context=".Popup_rangos">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:gravity="center"
+        android:text="@string/rango_glucosa"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="38sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rango_glucosa1"
+        android:textAlignment="center"
+        android:textColor="#C60202"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rango_glucosa4"
+        android:textAlignment="center"
+        android:textColor="#C60202"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rango_glucosa2"
+        android:textAlignment="center"
+        android:textColor="#FFF200"
+        android:textSize="26sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rango_glucosa5"
+        android:textAlignment="center"
+        android:textColor="#FFF200"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rango_glucosa3"
+        android:textAlignment="center"
+        android:textColor="#0A6803"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rango_glucosa6"
+        android:textAlignment="center"
+        android:textColor="#0A6803"
+        android:textSize="30sp" />
+</LinearLayout>

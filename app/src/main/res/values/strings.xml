@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Biosensor-      SAW</string>
+    <string-array name="texto_info">
+        <item>Pasos para el uso de la aplicación.</item>
+        <item>Una vez que se haya hecho el proceso en el sensor...</item>
+        <item>1.-Oprimir el icono del chip para procesar la información del sensor en la app.</item>
+        <item>2.-Se mostrará una gráfica con su resultado.</item>
+        <item>3.-El resultado se verá en la línea de abajo.</item>
+        <item>4.-Oprimir el icono de información para saber en que rango se encuentra su nivel de glucosa.</item>
+    </string-array>
+    <string name="texto_inicio">Su nivel de glucosa es de:</string>
+    <string name="rango_glucosa">Rangos de Glucosa:</string>
+    <string name="rango_glucosa1">126 mg/dL o mayor</string>
+    <string name="rango_glucosa2">De 101 mg/dL a 125 mg/dL</string>
+    <string name="rango_glucosa3">De 70 mg/dL a 100 mg/dL</string>
+    <string name="rango_glucosa4">Tiene Diabetes</string>
+    <string name="rango_glucosa5">Intolerancia En Ayuno</string>
+    <string name="rango_glucosa6">Su Glucosa Está Bien</string>
+    <string name="medida">mg/dL</string>
+    <string name="title_activity_pantalla_carga">pantalla_carga</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
